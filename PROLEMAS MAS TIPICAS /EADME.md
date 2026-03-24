@@ -31,7 +31,7 @@ Esto ocurre porque **Microsoft no reconoce el archivo**.
 [![Captura-de-pantalla-2026-03-24-143706.png](https://i.postimg.cc/ZKN8Ht9X/Captura-de-pantalla-2026-03-24-143706.png)](https://postimg.cc/6y946Pfh)
 
 2. Luego haz clic en **“Ejecutar de todas formas”**
-   📷 *(Aquí va la tercera foto)*
+   📷 *[![Captura-de-pantalla-2026-03-24-143712.png](https://i.postimg.cc/KzVqH6Ph/Captura-de-pantalla-2026-03-24-143712.png)](https://postimg.cc/wyXQtb4w))*
 
 ---
 
