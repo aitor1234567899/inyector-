@@ -1,1 +1,41 @@
 
+
+# 📌 Problemas más típicos
+
+## ⚠️ El antivirus elimina el inyector DLL
+
+Si tu antivirus borra el archivo, **NO significa que tenga virus**.
+
+👉 Esto es un **falso positivo**.
+El programa está hecho en **Python** y convertido a `.exe` con la librería **PyInstaller**.
+
+🔎 Algunos antivirus detectan este tipo de archivos como sospechosos, aunque no lo sean.
+
+---
+
+## 🧩 Problema típico #1 (Windows bloquea el archivo)
+
+Si al abrir el programa te aparece un mensaje como:
+
+> “Windows protegió tu PC”
+
+📷 *(Aquí va la primera foto)*
+
+Esto ocurre porque **Microsoft no reconoce el archivo**.
+
+---
+
+### ✅ Cómo solucionarlo
+
+1. Haz clic en **“Más información”**
+   📷 *(Aquí va la segunda foto)*
+
+2. Luego haz clic en **“Ejecutar de todas formas”**
+   📷 *(Aquí va la tercera foto)*
+
+---
+
+✔️ ¡Y listo! Ya podrás usar el inyector sin problemas.
+
+---
+
