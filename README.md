@@ -30,10 +30,6 @@ Descarga el `.exe` desde este repositorio y ejecútalo directamente.
 
 ---
 
-## ⚠️ Aviso
-
-Uso educativo.  
-No se recomienda usar en online.
 
 ---
 
